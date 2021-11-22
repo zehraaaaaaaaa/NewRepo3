@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement", "InventoryManagement\InventoryManagement.csproj", "{C51AC2A9-5A0B-40C8-A2A3-528746BBC4BC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{D22C1AB1-43B6-4F70-91F9-2B54AA3EA7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51AC2A9-5A0B-40C8-A2A3-528746BBC4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51AC2A9-5A0B-40C8-A2A3-528746BBC4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51AC2A9-5A0B-40C8-A2A3-528746BBC4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51AC2A9-5A0B-40C8-A2A3-528746BBC4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22C1AB1-43B6-4F70-91F9-2B54AA3EA7D4}.Debug|Any CPU.ActiveCfg = Debug
+		{D22C1AB1-43B6-4F70-91F9-2B54AA3EA7D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26F32E2B-858B-4F53-BF36-5C4A3C778C86}
+	EndGlobalSection
+EndGlobal
